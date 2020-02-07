@@ -13,3 +13,15 @@ To start our server you should install nodemon and npm. On the root folder start
 # Build_the_Bay
 
 One week Hackathon at [42 Silicon Valley](https://www.42.us.org/), details [here](https://www.42.us.org/42-hosts-first-build-the-bay-hackathon/).
+
+# Sample Images:
+
+<img src="https://github.com/yakuseishou/BuildTheBayHackathon-42/blob/master/screenshot/homepage.png" alt="home" width="50%" height="40%" style="float: inline-end; margin-left: 10%;"/><br></br>
+
+<img src="https://github.com/yakuseishou/BuildTheBayHackathon-42/blob/master/screenshot/accountpage.png" alt="home" width="50%" height="40%" style="float: inline-end; margin-left: 10%;"/><br></br>
+
+<img src="https://github.com/yakuseishou/BuildTheBayHackathon-42/blob/master/screenshot/directry.png" alt="home" width="50%" height="40%" style="float: inline-end; margin-left: 10%;"/><br></br>
+
+<img src="https://github.com/yakuseishou/BuildTheBayHackathon-42/blob/master/screenshot/flags.png" alt="home" width="50%" height="40%" style="float: inline-end; margin-left: 10%;"/><br></br>
+
+<img src="https://github.com/yakuseishou/BuildTheBayHackathon-42/blob/master/screenshot/resturant.png" alt="home" width="50%" height="40%" style="float: inline-end; margin-left: 10%;"/><br></br>
