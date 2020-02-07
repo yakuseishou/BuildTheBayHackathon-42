@@ -1,0 +1,168 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.logbody {
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 5em;
+}
+
+.main-head{
+    height: 150px;
+    background: #FFF;
+
+}
+
+.sidenav {
+    max-width: 410px;
+    height: 100%;
+    background-color: #1d2c3f;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+
+.main {
+    padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+}
+
+
+@media screen and (min-width: 768px){
+    .main{
+        margin-left: 40%;
+    }
+
+    .sidenav{
+        width: 450px;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        left: 0;
+    }
+
+    .login-form{
+        margin-top: 45%;
+        width: 1100px;
+        background-color: #c2b37c;
+        border-radius: 5px;
+        padding: 50px 0 50px 50px;
+        color: #1d2c3f;
+        position: relative;
+    }
+
+    .register-form{
+        margin-top: 20%;
+    }
+}
+
+
+.login-main-text{
+    margin-top: 20%;
+    padding: 60px;
+    color: #fff;
+}
+
+.login-main-text h2{
+    font-weight: 300;
+}
+
+.btn-secondary {
+    background-color: #1d2c3f !important;
+    color: #fff;
+    font-size: 1.3em;
+    position: absolute;
+    right: 150px;
+    bottom: 50px;
+    border-radius: 5px;
+    border: none;
+}
+
+#ULog {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 3em;
+    padding-left: 300px;
+    padding-bottom: 50px;
+    text-shadow: 0 3px 3px #837649;
+    border-radius: 6px;
+}
+.form-title{
+    padding-left: 100px;
+    padding-right: 50px;
+    font-size: 20px;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.form-group {
+    padding-bottom: 50px;
+}
+.login-conten {
+    padding-left: 0;
+    display: flex;
+    padding-bottom: 3%;
+    padding-left: 400px;
+    margin: 0 auto;
+}
+
+.form-control {
+    font-size: 25px;
+    border-radius: 5px;
+    padding: 0%;
+
+}
+
+.bg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 150%!important;
+    z-index: -1;
+}
+
+.txt {
+    font-size: 120%;
+    border-radius: 5px;
+}
+
+.homeBtn {
+    display: block;
+    position: absolute;
+    top: 1%;
+    left: -105px;
+    z-index: +9;
+}
+.homeBtn img {
+    width: 13%;
+}
+
+.bg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+}
+
+.txt {
+    font-size: 120%;
+    border-radius: 5px;
+}
+
+.homeBtn {
+    display: block;
+    position: absolute;
+    top: 1%;
+    left: -105px;
+    z-index: +9;
+}
+.homeBtn img {
+    width: 13%;
+}
