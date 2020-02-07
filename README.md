@@ -10,10 +10,6 @@ We built the website using MERN stack, **Mango** for the Data Base, **Express** 
 
 To start our server you should install nodemon and npm. On the root folder start the backend server with `nodemon backend/server.js` then go into the `frontend` directory and run `npm start`. This will run our project on the local host.
 
-# Build_the_Bay
-
-One week Hackathon at [42 Silicon Valley](https://www.42.us.org/), details [here](https://www.42.us.org/42-hosts-first-build-the-bay-hackathon/).
-
 # Sample Images:
 
 <img src="https://github.com/yakuseishou/BuildTheBayHackathon-42/blob/master/screenshot/homepage.png" alt="home" width="50%" height="40%" style="float: inline-end; margin-left: 10%;"/><br></br>
